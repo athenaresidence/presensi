@@ -17,5 +17,5 @@ Beberapa aturan yang harus diperhatikan:
 3. Jam istirahat Pukul 12.00-12.30 untuk hari jumat 11.30-13.00
 4. Tamu titip kartu identitas dan parkir kendaraan diarahkan satpam
 5. Pada pergantian shift. Shift sebelumnya tidak meninggalkan pos sebelum shift selanjutnya datang
-6. Keliling komplek 3 x selama shift
-7. Detail shift jada bisa ditemukan di deskripsi grup warga
+6. Keliling komplek 4 x selama shift
+7. Detail shift jaga bisa ditemukan di deskripsi grup warga
