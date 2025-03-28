@@ -18,12 +18,13 @@ Tata cara pemangilan Modul Presensi Satpam:
 
 Beberapa aturan yang harus diperhatikan:
 1. Posisi portal selalu tertutup. ada / tidak ada satpam
-2. Warga wajib pake kartu sendiri. Jangan dimanjakan atau dibukakan
+2. Warga wajib pake kartu sendiri. 
 3. Jam istirahat Pukul 12.00-12.30 untuk hari jumat 11.30-13.00
 4. Tamu titip kartu identitas dan parkir kendaraan diarahkan satpam
-5. Pada pergantian shift. Shift sebelumnya tidak meninggalkan pos sebelum shift selanjutnya datang
-6. Keliling komplek 4 x selama shift dengan tugas:
+5. Jika pada jam istirahat satpam ada pengiriman paket untuk warga (gofood, gojek dll), diharapkan warga yang bersangkutan untuk mengambil sendiri paket tersebut di depan (membuka portal sendiri)
+6. Pada pergantian shift. Shift sebelumnya tidak meninggalkan pos sebelum shift selanjutnya datang
+7. Keliling komplek 4 x selama shift dengan tugas:
    * Mencatat Kendaraan yang terparkir diluar garasi
    * Mencatat aktifitas mencurigakan
    * Membantu bila dibutuhkan
-7. Detail shift jaga bisa ditemukan di deskripsi grup warga
+8. Informasi Kehadiran Satpam akan terupdate di group warga (whatsapp) athena residence
